@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "__stackbit_sanity_project_name__"
+    "name": "terrific-oregano-38b35"
   },
   "api": {
-    "projectId": "__stackbit_sanity_project_id__",
+    "projectId": "pke0keyu",
     "dataset": "production"
   },
   "plugins": [
